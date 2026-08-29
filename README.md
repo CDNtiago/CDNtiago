@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines=AI+Agents+%26+LLM+Developer;Full-Stack+Engineer+%C2%B7+TypeScript+%26+Next.js;RAG+Pipelines+%26+Agentic+Loops;Co-founder+%26+CTO+%40+Space+Seed" alt="roles" />
 
+[![Space Seed](https://img.shields.io/badge/Space_Seed-Company_Website-6366F1?style=for-the-badge&logo=rocket&logoColor=white)](https://spaceseed.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagomarquesrodrigues/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=globe&logoColor=white)](mailto:tiagomaarques6@gmail.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagomaarques6@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5524999131999)
 
@@ -17,12 +17,13 @@
 
 Desenvolvedor de Software focado em **Aplicações de IA, Sistemas Agênticos e Integração de LLMs**. Possuo experiência prática construindo sistemas Full Stack onde a IA faz parte da arquitetura central do produto — incluindo **loops de agentes, workflows agênticos, pipelines de RAG, automações complexas** e orquestração de modelos via APIs.
 
-Atualmente atuo como **Co-founder & CTO na Space Seed**, liderando a arquitetura de software, integrações de IA e infraestrutura em produção de aplicações web de alto impacto.
+Atualmente atuo como **Co-founder & CTO na [Space Seed](https://spaceseed.com.br/)**, liderando a arquitetura de software, integrações de IA e infraestrutura em produção. Na Space Seed desenvolvemos soluções tecnológicas e atendemos diversos clientes e projetos de alto impacto.
 
 ```typescript
 const developer = {
   name: "Tiago Marques Rodrigues",
   role: "Software Developer & CTO @ Space Seed",
+  company: "https://spaceseed.com.br",
   location: "Rio de Janeiro, BR",
   education: "B.S. in Information Systems (Estácio)",
   languages: ["Portuguese (Native)", "English (B2 - Upper-Intermediate)"],
@@ -83,19 +84,20 @@ const developer = {
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
 | **🤖 Agent Management CRM Dashboard** | Interface centralizada para gestão e monitoramento de agentes rodando em múltiplos servidores. Utiliza fluxo visual de To-Do list para atribuição de tarefas e controle de workload. | `TypeScript` `Next.js` `AI Agents` `Webhooks` |
-| **☕ Café com o Candidato** | Projeto open-source de IA & RAG que simula conversas com candidatos à presidência do Brasil com base em declarações públicas auditáveis e respostas fundamentadas em fontes. | `RAG` `LLM APIs` `OpenRouter` `Scrapers` |
-| **📚 Collie Cards** | Plataforma SaaS de estudos focada em repetição espaçada, contando com mais de 50+ usuários ativos, autenticação e banco de dados em produção. | `Next.js` `React` `PostgreSQL` `Prisma` |
+| **☕ [Café com o Candidato](https://www.cafecomcandidato.com.br/)** | Projeto open-source de IA & RAG que simula conversas com candidatos à presidência do Brasil com base em declarações públicas auditáveis e respostas fundamentadas em fontes. | `RAG` `LLM APIs` `OpenRouter` `Scrapers` |
+| **📚 [Collie Cards](https://colliecards.com.br/)** | Plataforma SaaS de estudos focada em repetição espaçada, contando com mais de 50+ usuários ativos, autenticação e banco de dados em produção. | `Next.js` `React` `PostgreSQL` `Prisma` |
 | **📊 Consult You & SaaS PMEs** | Plataformas SaaS para nichos específicos (nutricionistas, barbearias e lojas), com dashboards para profissionais e clientes. | `Full Stack` `Tailwind` `Stripe` `Mercado Pago` |
 
 ---
 
 ## 💼 Experiência Profissional
 
-* **Co-founder & CTO / Software Developer** @ **Space Seed** *(2025 – Presente)*
-  * Arquitetura e desenvolvimento de aplicações Full Stack orientadas a IA (TypeScript, Node.js, Next.js, PostgreSQL).
+* **Co-founder & CTO / Software Developer** @ **[Space Seed](https://spaceseed.com.br/)** *(2025 – Presente)*
+  * Liderança da arquitetura e desenvolvimento de aplicações Full Stack orientadas a IA (TypeScript, Node.js, Next.js, PostgreSQL).
   * Construção de loops de agentes, workflows agênticos, RAG e orquestração de LLMs via OpenRouter.
   * Automações com n8n e integração de bots inteligentes no WhatsApp, Telegram e Discord.
   * Gerenciamento de infraestrutura em produção usando Docker, Linux, VPS, Nginx, PM2 e Coolify.
+  * *Confira nossos projetos e clientes atendidos diretamente em [spaceseed.com.br](https://spaceseed.com.br/).*
 
 * **Software Developer** @ **Quick / Fibra** *(Ago 2024 – Feb 2025)*
   * Desenvolvimento e manutenção de sistemas internos de telecomunicações.
@@ -107,8 +109,9 @@ const developer = {
 
 ### 📬 Vamos conversar?
 
-Se você quer discutir sobre **Sistemas Agênticos, Arquitetura RAG, Desenvolvimento Full-Stack** ou novas oportunidades, entre em contato!
+Se você quer discutir sobre **Sistemas Agênticos, Arquitetura RAG, Desenvolvimento Full-Stack** ou conhecer os projetos da **[Space Seed](https://spaceseed.com.br/)**, entre em contato!
 
+[![Space Seed](https://img.shields.io/badge/Space_Seed-spaceseed.com.br-6366F1?style=for-the-badge&logo=rocket&logoColor=white)](https://spaceseed.com.br/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagomarquesrodrigues/)
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagomaarques6@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5524999131999)
